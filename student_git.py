@@ -22,7 +22,7 @@ class student:
         print("Umur :", self.umur)
 
 
-student1 = student("LUTHFAN", 20)
+student1 = student("LUTHFAN",19)
 
 
 student1.tampilkan_profil()
